@@ -23,6 +23,7 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
+  background-color: #44176e;
   padding: 10px 20px;
   margin-top: 5px;
   font-size: 14px;

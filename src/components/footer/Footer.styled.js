@@ -1,4 +1,3 @@
-import { Color } from 'antd/es/color-picker';
 import { BsGithub } from 'react-icons/bs';
 import styled from 'styled-components';
 
